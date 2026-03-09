@@ -1,0 +1,6 @@
+pdfplumber
+torch
+transformers
+sentencepiece
+accelerate
+llama-cpp-python
