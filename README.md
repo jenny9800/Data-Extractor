@@ -24,7 +24,7 @@
 1. **下載或複製專案**  
 
 ```bash
-git clone https://github.com/jenny9800/Shipping-Data-Extractor.git
+git clone https://github.com/jenny9800/Data-Extractor.git
 cd Extracter
 ```
 
